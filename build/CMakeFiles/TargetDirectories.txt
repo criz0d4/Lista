@@ -1,0 +1,1 @@
+/home/cristian/Escritorio/codigos/Lista/build/CMakeFiles/lista.dir
